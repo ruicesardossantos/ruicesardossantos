@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ruicesardossantos
 - 👀 I’m interested in estágio.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email: ruicesardossantos@gmail.com
 
 <!---
 ruicesardossantos/ruicesardossantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
