@@ -1,0 +1,43 @@
+.body{
+    background-image: url('./img/fundo.jpg');
+
+}
+
+.em_construcao{
+    padding: 80px;
+    text-align: center;
+    font-size: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.oSiteEstaQuasePronto{
+    padding: 24px;
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.rodape {
+    padding: 100px;
+    margin-top: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+
+    
+}
+
+.imagem{
+
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+
+.body{
+    background-image: url('./img/fundo.jpg');
+}
